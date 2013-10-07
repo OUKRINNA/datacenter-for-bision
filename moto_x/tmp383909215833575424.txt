@@ -1,1 +1,1 @@
-{"search_metadata": {"count": 100, "completed_in": 0.004, "max_id_str": "383909215833575424", "since_id_str": "0", "refresh_url": "?since_id=383909215833575424&q=moto%20x&include_entities=1", "since_id": 0, "query": "moto+x", "max_id": 383909215833575424}, "statuses": []}
+{"search_metadata": {"count": 100, "completed_in": 0.005, "max_id_str": "383909215833575424", "since_id_str": "0", "refresh_url": "?since_id=383909215833575424&q=moto%20x&include_entities=1", "since_id": 0, "query": "moto+x", "max_id": 383909215833575424}, "statuses": []}
