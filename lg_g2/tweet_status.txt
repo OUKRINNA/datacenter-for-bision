@@ -1,1 +1,1 @@
-{"most_early_id": 387539933730463744, "last_created_at": "Tue Oct 08 11:28:15 +0000 2013", "most_recent_id": 387785633936072704}
+{"most_early_id": 386877462015401984, "last_created_at": "Wed Oct 09 05:25:21 +0000 2013", "most_recent_id": 387811012847882240}
