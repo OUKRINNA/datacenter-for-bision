@@ -1,0 +1,1 @@
+{"search_metadata": {"count": 100, "completed_in": 0.023, "max_id_str": "390008748288139266", "since_id_str": "390008737332613121", "refresh_url": "?since_id=390008748288139266&q=ipad&include_entities=1", "since_id": 390008737332613121, "query": "ipad", "max_id": 390008748288139266}, "statuses": []}
