@@ -1,1 +1,1 @@
-{"search_metadata": {"count": 100, "completed_in": 0.029, "max_id_str": "384979885166301184", "since_id_str": "0", "refresh_url": "?since_id=384979885166301184&q=nexus10&include_entities=1", "since_id": 0, "query": "nexus10", "max_id": 384979885166301184}, "statuses": []}
+{"search_metadata": {"count": 100, "completed_in": 0.005, "max_id_str": "391843358974287872", "since_id_str": "391783590523977728", "refresh_url": "?since_id=391843358974287872&q=nexus10&include_entities=1", "since_id": 391783590523977728, "query": "nexus10", "max_id": 391843358974287872}, "statuses": []}
