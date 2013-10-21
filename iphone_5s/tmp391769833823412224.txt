@@ -1,0 +1,1 @@
+{"search_metadata": {"count": 100, "completed_in": 0.035, "max_id_str": "391909988496457728", "since_id_str": "391909981043175424", "refresh_url": "?since_id=391909988496457728&q=iphone%205s&include_entities=1", "since_id": 391909981043175424, "query": "iphone+5s", "max_id": 391909988496457728}, "statuses": []}
