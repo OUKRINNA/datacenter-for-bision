@@ -1,0 +1,1 @@
+{"search_metadata": {"count": 100, "completed_in": 0.01, "max_id_str": "394740006272909312", "since_id_str": "394739389659906048", "refresh_url": "?since_id=394740006272909312&q=kindlefire&include_entities=1", "since_id": 394739389659906048, "query": "kindlefire", "max_id": 394740006272909312}, "statuses": []}

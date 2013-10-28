@@ -1,0 +1,1 @@
+{"search_metadata": {"count": 100, "completed_in": 0.011, "max_id_str": "394743875295670272", "since_id_str": "394743637168648192", "refresh_url": "?since_id=394743875295670272&q=nexus10&include_entities=1", "since_id": 394743637168648192, "query": "nexus10", "max_id": 394743875295670272}, "statuses": []}

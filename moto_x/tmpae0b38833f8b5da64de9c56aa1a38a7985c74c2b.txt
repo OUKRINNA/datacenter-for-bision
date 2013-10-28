@@ -1,0 +1,1 @@
+{"search_metadata": {"count": 100, "completed_in": 0.016, "max_id_str": "394740012740141056", "since_id_str": "394739924248698880", "refresh_url": "?since_id=394740012740141056&q=moto%20x&include_entities=1", "since_id": 394739924248698880, "query": "moto+x", "max_id": 394740012740141056}, "statuses": []}
