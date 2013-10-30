@@ -1,0 +1,1 @@
+{"search_metadata": {"count": 100, "completed_in": 0.039, "max_id_str": "394830830952263680", "since_id_str": "394830346383941632", "refresh_url": "?since_id=394830830952263680&q=lg%20g2&include_entities=1", "since_id": 394830346383941632, "query": "lg+g2", "max_id": 394830830952263680}, "statuses": []}
